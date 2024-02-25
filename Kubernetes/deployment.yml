@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: netflix-app
-        image:  yedukondalu212/netflix:replaceImageTag
+        image:  yedukondalu212/netflix:52
         ports:
         - containerPort: 80
